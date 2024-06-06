@@ -1,5 +1,9 @@
 # turtlebot3_pack
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Batch installation of turtlebot3 repositories
+
 ## install and build
 ```bash
 # clone repository
