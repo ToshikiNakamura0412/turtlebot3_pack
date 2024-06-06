@@ -1,11 +1,11 @@
-# turtlebot3
+# turtlebot3_pack
 
 ## install and build
 ```bash
 # clone repository
 cd /path/to/your/catkin_ws/src
-git clone https://github.com/ToshikiNakamura0412/turtlebot3.git
-cd turtlebot3
+git clone https://github.com/ToshikiNakamura0412/turtlebot3_pack.git
+cd turtlebot3_pack
 vcs import pkgs < .rosinstall
 
 # build
